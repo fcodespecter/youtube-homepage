@@ -3,3 +3,247 @@ body
     color: white;
     background-color: black;
 }
+.band
+{
+    display: flex;
+}
+#all
+{
+    margin-left: 35px;
+    border: 2px;
+    background-color: white;
+    color: black;
+    height: 25px;
+    width:35px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#mu
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color:dimgrey;
+    color: white;
+    height: 25px;
+    width: 50px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#li
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 35px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#th
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#pa
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#dr
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+
+#ca
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#dr2
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 70px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#te
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 80px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#tr
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#re
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#re
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#Ga
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#hi
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#mas
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 90px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#ma
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 150px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#me
+{
+    margin-left: 15px;
+    border: 2px;
+    background-color: dimgrey;
+    color: white;
+    height: 25px;
+    width: 60px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-top: 10px;
+}
+#me :focus
+{
+    background-color: white;
+    color:black;
+}
+.if
+{
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.if2
+{
+    margin-left: 1%;
+    border-radius: 10px;
+}
+.if3
+{
+    margin-left: 1%;
+    border-radius: 10px;
+}
+.if4
+{
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.if5
+{
+    margin-left: 1%;
+    border-radius: 10px;   
+}
+.if6
+{
+    margin-left: 1%;
+    border-radius: 10px;
+}
